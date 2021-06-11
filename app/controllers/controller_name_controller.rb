@@ -1,4 +1,3 @@
 class ControllerNameController < ApplicationController
-  def StaticPages
-  end
+  def StaticPages; end
 end
